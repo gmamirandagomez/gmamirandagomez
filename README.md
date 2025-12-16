@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Hola, soy Gema
 
-<!--
-**gmamirandagomez/gmamirandagomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduada en **Óptica y Optometría**
+🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Graduada en Óptica y Optometría en transición al desarrollo de software.
+-  Aprendiendo programación y desarrollo de aplicaciones, con interés de adquirir experiencia práctica.
+
+## 📫 Contacto
+
+📧 mirandagomezgema@gmail.com
+
+## 🛠️ Tecnologías
+
+**Lenguajes de programación**
+- ☕ Java
+- 💻 JavaScript
+- 🌐 HTML
+- 🎨 CSS
+- 🔹 XML
+- 🔹 XSL / XSD
+- 🔹 XPath
+
+**Librerías/ Frameworks**
+- ⚡ jQuery
+- 🐘 Hibernate
+- 🛠️ Maven
+
+**Bases de datos**
+- 🗄️ SQL
+- 🐬 phpMyAdmin
+
+**Entornos de desarrollos y herramientas**
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+  
+## 🎯 Objetivo
+
+Seguir aprendiendo desarrollo de software y prepararme para realizar prácticas profesionales en el sector tecnológico.
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gmamirandagomez&show_icons=true&theme=dark)
