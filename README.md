@@ -41,7 +41,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) <br>
 ![Batch](https://img.shields.io/badge/Batch-0078D6?style=for-the-badge&logo=windows&logoColor=white) <br>
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) <br>
-  
+
+
+## 🏆 Lenguajes más usados
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=gmamirandagomez&layout=compact&theme=dark)
+
 ## 🎯 Objetivo
 
 Seguir aprendiendo desarrollo de software y prepararme para realizar prácticas profesionales en el sector tecnológico.
